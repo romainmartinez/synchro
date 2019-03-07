@@ -1,0 +1,15 @@
+# create a conda environment with: `conda env create`
+name: synchro
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python
+- nb_conda_kernels
+- numpy
+- pandas
+- xlrd
+- xgboost
+# - scikit-optimize
+- seaborn
+- shap
