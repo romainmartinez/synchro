@@ -10,6 +10,7 @@ dependencies:
 - pandas
 - xlrd
 - xgboost
-# - scikit-optimize
 - seaborn
 - shap
+- altair
+- pymc3
