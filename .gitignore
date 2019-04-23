@@ -103,3 +103,5 @@ ENV/
 \.idea/
 
 ./share/fig/
+
+altair-data*
